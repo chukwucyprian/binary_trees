@@ -66,3 +66,9 @@ This is a group project which I anticipate the following
 | 40. Heap - Sort | [SOON](./) |
 | 41. Big O #Binary Heap | [SOON](./) |
 
+
+
+
+###	AUTHORS
+*	Chukwu Cyprian O
+*	Mduduzi Buthelezi
